@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>jiratool.qt.help</namespace>
+    <virtualFolder>doc</virtualFolder>
+    <filterSection>
+        <toc>
+            <section title="Simple Text Viewer" ref="index.html">
+                <section title="A" ref="A.html">
+                    <section title="AA" ref="AA.html"/>
+                    <section title="AB" ref="AB.html"/>
+                    <section title="AC" ref="AC.html"/>
+                </section>
+                <section title="B" ref="B.html">
+                    <section title="BA" ref="BA.html"/>
+                    <section title="BB" ref="BB.html"/>
+                </section>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Main" ref="index.html"/>
+            <keyword name="A" ref="A.html"/>
+            <keyword name="AA" ref="AA.html"/>
+            <keyword name="AB" ref="AB.html"/>
+            <keyword name="AC" ref="AC.html"/>
+            <keyword name="B" ref="B.html"/>
+            <keyword name="BA" ref="BA.html"/>
+            <keyword name="BB" ref="BA.html"/>
+        </keywords>
+        <files>
+            <file>index.html</file>
+            <file>A.html</file>
+            <file>AA.html</file>
+            <file>AB.html</file>
+            <file>AC.html</file>
+            <file>B.html</file>
+            <file>BA.html</file>
+            <file>BB.html</file>
+            <file>images/screenLogo.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
